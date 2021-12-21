@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**DebapriyoSaha/DebapriyoSaha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working with TCS as a Business Analyst
+- 🌱 I’m currently learning Machine Leaning, Statistics, and Tools of Data Science
+- 🤔 I’m looking for help to find real life projects on data science
+- 💬 Ask me about Python, Statistics, Business Analysis
+- 📫 Feel free to mail me at debopriyo.saha@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>
+  <a href="https://www.linkedin.com/in/debapriyo-saha-a3b9a658" rel="nofollow noreferrer">
+    <img src="https://i.stack.imgur.com/gVE0j.png" alt="linkedin"> LinkedIn
+  </a> &nbsp; 
+</p>
+   
