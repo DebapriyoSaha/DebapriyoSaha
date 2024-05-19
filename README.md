@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **App development, machine learning**
+- 🔭 I’m currently working on **LLM, Gen AI, Machine Learning, App development**
 
 - 🌱 I’m currently learning **Statistics, Tools for Data Science, Machine Learning, Flutter, Dart**
 
