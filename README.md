@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Debapriyo Saha</h1>
-<h3 align="center">A data science enthusiast</h3>
+<h3 align="center">B.TECH(MAKAUT), MBA(IISWBM, CU) & BSc(IIT Madras)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=debapriyosaha&label=Profile%20views&color=0e75b6&style=flat" alt="debapriyosaha" /> </p>
 
@@ -9,11 +9,11 @@
 
 - 🔭 I’m currently working on **LLM, Gen AI, Machine Learning, App development**
 
-- 🌱 I’m currently learning **Statistics, Tools for Data Science, Machine Learning, Flutter, Dart**
+- 🌱 I’m currently exploring **Large Language Models**
 
-- 👯 I’m looking to collaborate on **developing app**
+- 👯 I’m looking to collaborate on **hackathons**
 
-- 🤝 I’m looking for help with **new ideas on app development**
+- 🤝 I’m looking for help with **new ideas on LLM based projects**
 
 - 💬 Ask me about **Python, Statistics, Data Science**
 
